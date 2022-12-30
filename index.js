@@ -1,5 +1,4 @@
 const express = require('express')
-const res = require('express/lib/response')
 const axios = require('axios')
 
 const app = express()
